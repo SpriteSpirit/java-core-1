@@ -1,5 +1,8 @@
+//import arrays_.ArraysPart1;
+import arrays_.ArraysPart2;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        ArraysPart2.task4();
     }
 }
